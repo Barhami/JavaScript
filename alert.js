@@ -45,8 +45,8 @@ addeNumber*/
     document.getElementById("heading-2").innerHTML = result
 })(45, 56) */
 
-((a, b) => {
+/*((a, b) => {
     var result = a + b ;
     document.getElementById("heading-2").innerHTML = result ;
 })(45, 56);
-
+*/
