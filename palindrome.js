@@ -4,7 +4,7 @@ function reverse(newStr) {
     str = getCharacter(newStr)
     let n = newStr.length
     for (let i=n-1; i >= 0 ; i--) {
-    realStr += String(str[i])
+        realStr += String(str[i])
     }
     let rr = realStr.replace("undefined", "")
     //console.log(rr)
