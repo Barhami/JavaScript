@@ -30,5 +30,5 @@ A repository for learning JS in LinkedIn Learning
 </ul>
 
 <h2>Authors</h2>
-<a href="github.com/bakseck">bakseck</a>
+<a href="github.com/Barhami">Barhami</a>
 
