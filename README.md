@@ -1,16 +1,6 @@
-<h1>JavaScript</h1>
+<h1 align="center">JavaScript</h1>
 
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiX14azlpf-AhV_VqQEHbsxAd4QFnoECAkQAw&url=https%3A%2F%2Fdeveloper.mozilla.org%2Ffr%2Fdocs%2FWeb%2FJavaScript&usg=AOvVaw3uYl_oe3-ZOaN7bhE_-gGy"><p align="center"><img src="img/JavaScript-Logo.png" width="50px"/></p></a>
-
-<style>
-    h1 {
-        text-align : center ;
-    }
-</style>
-
-<script>
-    alert("Bonjour")
-</script>
 
 <h2> Description </h2>
 A repository for learning JS in LinkedIn Learning
@@ -31,7 +21,7 @@ A repository for learning JS in LinkedIn Learning
         <summary>
             <code>Window</code>
         </summary>
-            <br>
+        <br>
             <p>&nbsp;&nbsp;&nbsp;&nbsp;The window object is supported by all browsers. It represents the browser's window.
             All global JavaScript objects, functions, and variables automatically become members of the window object.
             Global variables are properties of the window object.
