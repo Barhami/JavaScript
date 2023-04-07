@@ -1,6 +1,16 @@
-<h1 align="center">JavaScript</h1>
+<h1>JavaScript</h1>
 
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiX14azlpf-AhV_VqQEHbsxAd4QFnoECAkQAw&url=https%3A%2F%2Fdeveloper.mozilla.org%2Ffr%2Fdocs%2FWeb%2FJavaScript&usg=AOvVaw3uYl_oe3-ZOaN7bhE_-gGy"><p align="center"><img src="img/JavaScript-Logo.png" width="50px"/></p></a>
+
+<style>
+    h1 {
+        text-align : center ;
+    }
+</style>
+
+<script>
+    alert("Bonjour")
+</script>
 
 <h2> Description </h2>
 A repository for learning JS in LinkedIn Learning
@@ -13,8 +23,19 @@ A repository for learning JS in LinkedIn Learning
         <summary>
             <code>Alert()</code>
         </summary>
-            <p>The alert() method in JavaScript is used to display a virtual alert box</p>
-            <P>It is mostly used to give a warning message to the users. It displays an alert dialog box that consists of some specified message (which is optional) and an OK button</p>
+            <br>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;The alert() method in JavaScript is used to display a virtual alert box
+            It is mostly used to give a warning message to the users. It displays an alert dialog box that consists of some specified message (which is optional) and an OK button</p>
+    </details>
+    <details>
+        <summary>
+            <code>Window</code>
+        </summary>
+            <br>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;The window object is supported by all browsers. It represents the browser's window.
+            All global JavaScript objects, functions, and variables automatically become members of the window object.
+            Global variables are properties of the window object.
+            Global functions are methods of the window object.</p>
     </details>
 </ul>
 
